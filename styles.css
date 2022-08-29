@@ -131,7 +131,7 @@ main {
 /* My Projects---------------- !!!!*/
 #projects h1 {
     text-align: center;
-    margin-bottom: 20px;
+    padding: 90px 0 30px 0;
 }
 
 .my-project {
@@ -169,7 +169,6 @@ main {
 
 .my-project a:hover p:before {
     content: "<";
-    color: var(--main-bg);
 }
 .my-project a:hover p:after {
     content: "/>";
